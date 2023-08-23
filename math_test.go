@@ -3,7 +3,7 @@ package main
 import "testing"
 
 func TestSoma(t *testing.T) {
-	total := Soma(
+	total := soma(
 		15,
 		15,
 	)
